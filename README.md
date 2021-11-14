@@ -8,10 +8,11 @@
 - Finl Project
 
 ## Tools :
--Python
--Jupiter
+- Python
+- Jupiter
 
 ## Python Libraries :
--Numpy
--Panda
--Matplotlib
+- Numpy
+- Panda
+- Matplotlib
+- Seaborn
