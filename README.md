@@ -9,7 +9,7 @@
 ## Project Steps :
 - Proposal
 - MVP
-- Finl Project
+- Final Project
 
 ## Tools :
 - Python
