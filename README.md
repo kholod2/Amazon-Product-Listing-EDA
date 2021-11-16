@@ -13,7 +13,7 @@
 
 ## Tools :
 - Python
-- Jupiter
+- Jupyter
 
 ## Python Libraries :
 - Numpy
